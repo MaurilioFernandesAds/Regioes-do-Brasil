@@ -1,0 +1,12 @@
+# Exercício Python #009 - Tabuada
+num1 = int(input('Digite um número para ver a sua tabuada: '))
+print(f'{num1} x {1:2} = {num1*1}')
+print(f'{num1} x {2:2} = {num1*2}')
+print(f'{num1} x {3:2} = {num1*3}')
+print(f'{num1} x {4:2} = {num1*4}')
+print(f'{num1} x {5:2} = {num1*5}')
+print(f'{num1} x {6:2} = {num1*6}')
+print(f'{num1} x {7:2} = {num1*7}')
+print(f'{num1} x {8:2} = {num1*8}')
+print(f'{num1} x {9:2} = {num1*9}')
+print(f'{num1} x {10:2} = {num1*10}')
