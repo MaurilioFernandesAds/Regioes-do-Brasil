@@ -1,0 +1,186 @@
+.inicial{
+    font-family: Montserrat black; text-align: center;
+    font-size: 70pt;
+    -webkit-text-stroke: 2px white;
+}
+h1{
+    font-family: Montserrat black; text-align: center;
+    font-size: 55pt;
+    -webkit-text-stroke: 2px white;
+}
+h2,h3{
+    font-family: Montserrat black; text-align: center;
+    font-size: 38pt;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18pt;
+    text-indent: 30px;
+}
+body{
+    background-image: url(Back1.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+}
+footer{
+    font-family: Barlow Black; text-align: center;
+    color: white;
+    font-size: 16pt;
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rodape{
+    font-family: Barlow Black; text-align: center;
+    color: white;
+    font-size: 24pt;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ol, li{
+    font-family: Arial;
+    font-size: 19pt;
+}
+*{
+    box-sizing: border-box;
+}
+ol {
+    margin: 0;
+    padding: 0;
+}
+#topo {
+    text-decoration: none;
+    color: #000000;
+    background-color: white;
+    padding: 2px;
+    position: fixed;
+    text-align: center;
+    height: 30px;
+    width: 30px;
+    right: 20px;
+    bottom: 18px;
+    box-shadow: 2px 2px 2px;
+}
+.link
+{
+    text-decoration: none;
+    border-radius: 12px;
+    width: 160px;
+    text-align: center;
+    padding: 10px;
+    font-family: Montserrat;
+    font-size: 22px;
+    background-color:whitesmoke;
+    color: #000;
+}
+.link:hover{
+    box-shadow: 3px 3px 3px;
+}
+.map{
+    width: 700px;
+    height: 700px;
+    display: block;
+    margin: auto;
+}
+.mapa{
+    width: 600px;
+    height: 600px;
+    display: block;
+    margin: auto;
+}
+.btn
+{
+    text-decoration: none;
+    border-radius: 20px;
+    width: 110px;
+    text-align: center;
+    padding: 20px;
+    font-family: Montserrat;
+    font-size: 60px;
+    background-color:#017f7e;
+    color: #ffffff;
+    
+}
+.btn1
+{
+    text-decoration: none;
+    border-radius: 20px;
+    width: 110px;
+    text-align: center;
+    padding: 20px;
+    font-family: Montserrat;
+    font-size: 60px;
+    background-color:#ef0000;
+    color: #ffffff;
+}
+.btn2
+{
+    text-decoration: none;
+    border-radius: 20px;
+    width: 110px;
+    text-align: center;
+    padding: 20px;
+    font-family: Montserrat;
+    font-size: 60px;
+    background-color:#fe6a00;
+    color: #ffffff;
+}
+.btn3
+{
+    text-decoration: none;
+    border-radius: 20px;
+    width: 110px;
+    text-align: center;
+    padding: 20px;
+    font-family: Montserrat;
+    font-size: 60px;
+    background-color:#007f0e;
+    color: #ffffff;
+}
+.btn4
+{
+    text-decoration: none;
+    border-radius: 20px;
+    width: 110px;
+    text-align: center;
+    padding: 20px;
+    font-family: Montserrat;
+    font-size: 60px;
+    background-color:#ff9116;
+    color: #ffffff;
+}
+.btn:hover{
+    box-shadow: 5px 5px 5px;
+}
+.btn1:hover{
+    box-shadow: 5px 5px 5px;
+}
+.btn2:hover{
+    box-shadow: 5px 5px 5px;
+}
+.btn3:hover{
+    box-shadow: 5px 5px 5px;
+}
+.btn4:hover{
+    box-shadow: 5px 5px 5px;
+}
+.Imagens{
+    height: 400px;
+    width: 700px;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+}
+.Imagens:hover{
+    box-shadow: 0px 0px 5px 5px;
+    color: #ffffff;
+    transition: all 0.3s linear;
+}
